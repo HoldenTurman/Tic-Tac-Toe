@@ -3,7 +3,7 @@ This is a React ineractive game!<br>
 <br>
 <br>
 
-Deployed version:
+Deployed version: tic-tac-jp84dhtdv-holdenturman.vercel.app
 
 
 <h2>Technologies Used</h2>
